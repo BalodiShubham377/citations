@@ -1,4 +1,4 @@
-Citations Viewer
+## Citations Viewer
 
 Citations Viewer is a simple PyQt5 application that fetches citations from an API and displays them in a user-friendly interface.
 Features
@@ -13,14 +13,20 @@ Requirements
     PyQt5
     requests
 
+Installation
 
+    Clone the repository:
+
+    bash
+
+git clone https://github.com/your-username/citations-viewer.git
 
 Install the dependencies:
 
-```console 
+bash
 
     pip install -r requirements.txt
-``` 
+
 Usage
 
     Run the application:
