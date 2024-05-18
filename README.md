@@ -1,34 +1,38 @@
-## Citations Viewer
+# Python Citations Viewer
 
-Citations Viewer is a simple PyQt5 application that fetches citations from an API and displays them in a user-friendly interface.
-Features
+This Python program fetches data from an API endpoint and identifies citations for each response. It then displays the citations in a user-friendly UI.
 
-    Fetch citations from an API based on the page number entered by the user.
-    Display citations along with their sources in a QTextEdit widget.
-    User-friendly interface with input field and fetch button.
+## Assignment Overview
 
-Requirements
+You have been tasked with developing a Python program for BeyondChats, a full-time position assignment. The program needs to fetch data from a paginated API, identify citations for each response, and present the citations through a user-friendly UI.
 
-    Python 3.x
-    PyQt5
-    requests
+## Features
 
-## Installation
+- Fetch data from a paginated API endpoint.
+- Identify citations for each response.
+- Display citations in a user-friendly UI.
 
-  
+## Technologies Used
 
-Install the dependencies:
+- Python
+- PyQt5
+- Requests library
 
-bash
+## Usage
 
-    pip install -r requirements.txt
+1. Clone or download this repository to your local machine.
+2. Install the required dependencies using:
+3. pip install -r requirements.txt
 
-Usage
 
-    Run the application:
 
-    bash
+3. Run the program using:
 
 python app.py
 
-Enter the page number in the input field and click "Fetch Citations" to retrieve citations from the API.
+
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for de
