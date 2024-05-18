@@ -4,7 +4,7 @@ This Python program fetches data from an API endpoint and identifies citations f
 
 ## Assignment Overview
 
-You have been tasked with developing a Python program for BeyondChats, a full-time position assignment. The program needs to fetch data from a paginated API, identify citations for each response, and present the citations through a user-friendly UI.
+Develop a Python program focusing on a project that requires interacting with a paginated API to retrieve data, analyzing responses to identify citations, and presenting these citations in a user-friendly interface. 
 
 ## Features
 
