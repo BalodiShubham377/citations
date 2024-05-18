@@ -13,13 +13,9 @@ Requirements
     PyQt5
     requests
 
-Installation
+## Installation
 
-    Clone the repository:
-
-    bash
-
-git clone https://github.com/your-username/citations-viewer.git
+  
 
 Install the dependencies:
 
